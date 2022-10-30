@@ -1,2 +1,2 @@
 # etch-a-sketch
-The Odin Project
+Etch-a-sketch for The Odin Project foundations.

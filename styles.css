@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(90, 90, 232);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.header {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 300px;
+    justify-content: space-around;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 500px;
+    align-items: center;
+
+}
+
+.board {
+    width: 500px;
+    height: 500px;
+    display: grid;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+#message {
+    margin-top: 30px;
+    font-size: 20px;
+}
